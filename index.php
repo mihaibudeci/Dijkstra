@@ -25,7 +25,7 @@
 <head>
 <script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = "loh:)";
+    document.getElementById("demo").innerHTML = "surprise:)";
 }
 </script>
 </head>
